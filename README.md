@@ -2,7 +2,7 @@
 
 **My name is Dmitry Gerasimov**
 
-ML/DL student
+Computer graphics specialist with 5 years of experience. Now I am expanding my skills in the field of machine learning and computer vision.
 
 <!--
 **ClubsSuit/ClubsSuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
