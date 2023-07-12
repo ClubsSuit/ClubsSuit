@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![codewars](https://www.codewars.com/users/ClubsSuit/badges/large)](https://www.codewars.com/users/ClubsSuit) 
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dmitrygerasimov/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dmitrygerasimov/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dmitrygerasimov/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dmitrygerasimov/discussion/light)
