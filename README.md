@@ -2,7 +2,7 @@
 
 **My name is Dmitry Gerasimov**
 
-Computer graphics specialist with 5 years of experience. Now I am expanding my skills in the field of machine learning and computer vision.
+Computer graphics specialist with 5 years of experience. Now I am expanding my skills in the field of machine learning and computer vision. I've completed the Yandex.Practicum courses "Data science specialist". I'm currently working on my portfolio and I am open to job offers.
 
 <!--
 **ClubsSuit/ClubsSuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
