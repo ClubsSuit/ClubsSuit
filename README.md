@@ -39,12 +39,10 @@ Here are some ideas to get you started:
 -->
 
 ### Stats
-
 [![codewars](https://www.codewars.com/users/ClubsSuit/badges/small)](https://www.codewars.com/users/ClubsSuit) 
-<!-- 
-#### Leetcode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
--->
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DmitryGerasimov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 <!-- ссылка на kaggle
 ![dmitrygerasimov](https://road-to-kaggle-grandmaster.vercel.app/api/simple/dmitrygerasimov)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dmitrygerasimov/competition)
